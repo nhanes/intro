@@ -17,10 +17,9 @@ Individuals and organizations interested in building a community of users around
 ## What is NHANES? 
 The National Health and Nutrition Examination Survey (NHANES) is a program of studies designed to assess the health and nutritional status of adults and children in the United States. The survey is unique in that it combines interviews and physical examinations.
 
-Read more here http://www.cdc.gov/nchs/nhanes.htm
+Read more [here] (http://www.cdc.gov/nchs/nhanes.htm)
 
-Sign up for the listserv to keep up to date on activities, products and releases, and community driven Q&A. 
-* http://www.cdc.gov/nchs/nhanes/nhanes_listserv.htm
+[Sign up] (http://www.cdc.gov/nchs/nhanes/nhanes_listserv.htm) for the listserv to keep up to date on activities, products and releases, and community driven Q&A. 
 
 ## What can I do with NHANES data? 
 Check out this published peer-review literature on [PubMed] (http://www.ncbi.nlm.nih.gov/pubmed/?term=national+health+and+nutrition+examination+survey)
