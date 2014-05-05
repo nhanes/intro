@@ -22,4 +22,6 @@ Read more here http://www.cdc.gov/nchs/nhanes.htm
 Sign up for the listserv to keep up to date on activities, products and releases, and community driven Q&A. 
 * http://www.cdc.gov/nchs/nhanes/nhanes_listserv.htm
 
-
+## What can I do with NHANES data? 
+Check out this published peer-review literature on [PubMed] (http://www.ncbi.nlm.nih.gov/pubmed/?term=national+health+and+nutrition+examination+survey)
+See publications on [Google Scholar] (http://scholar.google.com/scholar?hl=en&as_sdt=1,9&as_vis=1&q=%22national+health+and+nutrition++examination+survey%22&scisbd=1)
